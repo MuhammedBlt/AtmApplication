@@ -11,13 +11,13 @@ class Program
 
 public class ATM
 {
-    public double balance; 
-    public double userBalance; 
-    public bool isUserLoggedIn;
+    private double balance; 
+    private double userBalance; 
+    private bool isUserLoggedIn;
 
-    public string[] userNames; 
-    public string[] userPasswords; 
-    public int userCount; 
+    private string[] userNames; 
+    private string[] userPasswords; 
+    private int userCount; 
 
     public ATM()
     {
@@ -88,7 +88,7 @@ public class ATM
         Console.WriteLine("Üyelik başarıyla oluşturuldu.");
     }
 
-    public void Login()
+    private void Login()
     {
         Console.Write("Kullanıcı adı: ");
         string username = Console.ReadLine();
@@ -108,7 +108,7 @@ public class ATM
         Console.WriteLine("Geçersiz kullanıcı adı veya şifre.");
     }
 
-    public void UserMenu()
+    private void UserMenu()
     {
         while (isUserLoggedIn)
         {
@@ -139,7 +139,7 @@ public class ATM
         }
     }
 
-    public void Deposit()
+    private void Deposit()
     {
         Console.Write("Yatırmak istediğiniz tutarı girin: ");
         if (double.TryParse(Console.ReadLine(), out double amount) && amount > 0)
@@ -155,7 +155,7 @@ public class ATM
         Console.ReadKey();
     }
 
-    public void Withdraw()
+    private void Withdraw()
     {
         Console.Write("Çekmek istediğiniz tutarı girin: ");
         if (double.TryParse(Console.ReadLine(), out double amount) && amount > 0)
