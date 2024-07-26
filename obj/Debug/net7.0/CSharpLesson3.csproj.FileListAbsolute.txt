@@ -1,0 +1,15 @@
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/bin/Debug/net7.0/CSharpLesson3
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/bin/Debug/net7.0/CSharpLesson3.deps.json
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/bin/Debug/net7.0/CSharpLesson3.runtimeconfig.json
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/bin/Debug/net7.0/CSharpLesson3.dll
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/bin/Debug/net7.0/CSharpLesson3.pdb
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.csproj.AssemblyReference.cache
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.AssemblyInfoInputs.cache
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.AssemblyInfo.cs
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.csproj.CoreCompileInputs.cache
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.dll
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/refint/CSharpLesson3.dll
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.pdb
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/CSharpLesson3.genruntimeconfig.cache
+/Users/muhammedbulut/Projects/HelloFromCSharp/CSharpLesson3/obj/Debug/net7.0/ref/CSharpLesson3.dll
